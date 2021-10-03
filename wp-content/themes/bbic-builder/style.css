@@ -1,0 +1,795 @@
+/*
+Theme Name: BBIC Builder Child Theme
+Theme URI: http://transmitstudio.com
+Version: 1.0
+Description: A child theme for Beaver Builder
+Author: Dave Kuhar
+Author URI: http://transmitstudio.com
+template: bb-theme
+*/
+/* global
+--------------------------------------------- */
+body {
+	font-family:'Zurich W01';
+	font-size:18px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family:'Zurich W01';
+	font-weight:700;
+}
+
+.fl-rich-text ul {
+	padding-left:20px;
+}
+
+.brag-bar h4 {
+	text-align:center;
+	color:#ffb718;
+	font-size:40px;
+	font-weight:700;
+	margin-bottom:10px;
+}
+
+.brag-bar h5,.brag-bar h5 a {
+	color:#fff;
+	font-weight:300;
+}
+
+.brag-bar h5 a:hover {
+	color:#FFB718;
+}
+
+.brag-bar p {
+	text-align:center;
+	color:#fff;
+	font-size:18px;
+}
+
+.vector-icon-large img.fl-photo-img {
+	max-width:140px;
+}
+
+.vector-icon-small img.fl-photo-img {
+	max-width:65px;
+}
+
+.photo-overlay p,.photo-overlay li {
+	color:#fff;
+}
+
+.photo-overlay h3,.photo-overlay h4 {
+	color:#d7d1c4;
+}
+
+.no-bulls ul {
+	padding-left:0;
+}
+
+.no-bulls ul li {
+	list-style:none;
+}
+
+.orange-row p,.orange-row li {
+	color:#fff;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+a.fl-button {
+	line-height: 0px !important;
+	padding: 24px !important;
+}
+
+/* skills dev
+--------------------------------------------- */
+.vector-icon-skills-dev .fl-callout-photo-left .fl-callout-photo {
+	width: 20%;
+}
+
+.vector-icon-skills-dev img.fl-photo-img {
+	max-width:110px;
+}
+
+.vector-icon-skills-dev .fl-photo-img-svg {
+	text-align: left;
+}
+
+/* header adjustments
+--------------------------------------------- */
+.col-md-4.col-sm-12.fl-page-header-logo-col {
+	width:10%;
+}
+
+.fl-page-nav-right.fl-page-header-fixed .fl-logo-img,.fl-page-header-fixed .fl-logo-img {
+	max-height:32px!important;
+	width:auto!important;
+}
+
+.header-logo .fl-photo-img-svg img {
+	max-height:32px;
+	margin:16px;
+}
+
+/* nav adjustments
+--------------------------------------------- */
+.fl-page-nav .navbar-nav,.fl-page-nav .navbar-nav a {
+	font-family:'Zurich W01';
+}
+
+#menu-primary-nav li {
+	margin-top:16px;
+}
+
+.fl-node-57f746f7dca44 .menu a {
+	padding-top:10px;
+	padding-bottom:15px!important;
+}
+
+li.menu-item-space-right {
+	padding-right:8px;
+}
+
+li.menu-item-border-left {
+	padding-left:8px;
+}
+
+li.menu-item-border-left:before {
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	width:1px;
+	height:80%;
+	border-left:1px solid #fff;
+}
+
+.menu li a {
+	border-bottom:5px solid #003a5c;
+}
+
+.menu li.current-menu-item a,.menu li a:hover,body.home li#menu-item-53 a {
+	text-decoration:none;
+	border-bottom:5px solid #ffb718;
+}
+
+#menu-footer-nav-left.menu li.current-menu-item a,#menu-footer-nav-left.menu li a:hover,#menu-footer-nav-right.menu li.current-menu-item a,#menu-footer-nav-right.menu li a:hover,body.home li#menu-item-53 a {
+	text-decoration:none;
+	border-bottom:5px solid #003a5c;
+}
+
+#menu-social-icons.menu li a,
+#menu-social-icons.menu li a:hover {
+ 	border-top:1px solid #fff;
+	border-bottom: none;
+/* 	padding-bottom:6px; */
+}
+
+#menu-social-icons.menu li a:hover {
+	border-bottom: none;
+}
+
+#menu-social-icons.menu li a {
+	padding:10px 6px 8px 8px;
+}
+
+#menu-social-icons.menu li#menu-item-370 a {
+	padding-bottom: 4px
+}
+
+#menu-social-icons.menu li#menu-item-142 a {
+	border-top:none;
+}
+
+.social-icons {
+	background:#003A5C;
+	border-radius:6px;
+	border:1px solid #fff;
+}
+
+/* old social floater */
+.fl-builder-content-143 {
+	z-index:9999;
+	position:fixed;
+}
+
+/* new social floater */
+.fl-builder-content-1267 {
+	z-index:9999;
+	position:fixed;
+}
+
+/* new social media icon group 10.07.19 @davekuhar */
+.social-icon-group {
+    background: #003a5c;
+    width: 60px;
+    padding: 0;
+    margin: 0;
+    border-radius: 8px;
+    border: 1px solid white;
+	text-align: center;
+}
+
+.fl-icon-group .fl-icon {
+    margin: 0 !important;
+    padding: 10px 0;
+    border-bottom: 1px solid white;
+}
+
+.fl-icon-group .fl-icon:last-of-type {
+    border-bottom: none;
+}
+
+/* homepage
+--------------------------------------------- */
+.home-bridge-logo img.fl-photo-img.fl-photo-img,.home-bridge-logo-white img.fl-photo-img.fl-photo-img {
+	max-width:140px;
+}
+
+.home-vector-icon-large img.fl-photo-img {
+	max-width:140px;
+}
+
+.home-vector-icon-small img.fl-photo-img {
+	max-width:65px;
+}
+
+.home-vector-icon-small .fl-module-content {
+	margin-bottom:0;
+}
+
+.home-vector-icon-large h4 {
+	color:#fff;
+	font-weight:300;
+}
+
+.home-tabs .fl-tabs-label {
+	width:20%;
+	text-align:center;
+	font-weight:700;
+	font-size:1.4em;
+	line-height:1.2;
+}
+
+.home-tabs .fl-tabs-label.fl-tab-active {
+	color:#ffb718;
+}
+
+.home-tabs .fl-tabs-panel-content.fl-tab-active {
+	background:rgba(216,210,196,.3);
+	padding:50px 40px;
+}
+
+
+.ginput_container.ginput_container_email {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+input#input_2_1, div#gform_confirmation_message_2 {
+    text-align: center;
+}
+
+.email-subscribe-row {
+	border-top: 1px solid #FFB718;
+}
+
+/* page header row
+--------------------------------------------- */
+.bbic-title h1.fl-heading span.fl-heading-text {
+	font-weight:300;
+}
+
+.bbic-title h1.fl-heading span.fl-heading-text span {
+	font-weight:700;
+}
+
+/* news
+--------------------------------------------- */
+body h2.fl-post-feed-title {
+	font-size:1.2em;
+	margin:0 0 8px;
+	line-height:1.1;
+}
+
+.news-header span.fl-heading-text {
+	font-weight: 300;
+}
+
+/* innovations
+--------------------------------------------- */
+.row.innov {
+	margin-bottom:10px;
+	font-size: 14px;
+}
+
+div.row.innov:nth-child(odd) {
+	color:#003a5c;
+}
+
+.header-innov {
+	width:55%;
+	float:left;
+	font-weight:700;
+	font-size: 14px;
+}
+
+.header-institution,.header-area {
+	width:10%;
+	float:left;
+	font-weight:700;
+	font-size: 14px;
+}
+
+.header-tech {
+	float:left;
+	font-weight:700;
+	font-size: 14px;
+}
+
+.innov-name {
+	float:left;
+	width:55%;
+	font-weight:700;
+}
+
+.innov-person {
+}
+
+.innov-institution {
+	float:left;
+	width:10%;
+}
+
+.innov-area {
+	float:left;
+	width:10%;
+}
+
+.innov-tech {
+	float:left;
+}
+
+/* success stories carousel
+--------------------------------------------- */
+.success-carousel .fl-post-carousel-post {
+    background: transparent !important;
+    border: none !important;
+}
+
+.success-carousel a.carousel-prev,
+.success-carousel a.carousel-next {
+    color: #565044;
+}
+
+.success-testimonials-carousel .fl-post-carousel-post {
+    background: transparent !important;
+    border: none !important;	
+}
+
+/* staff
+--------------------------------------------- */
+.staff-collection h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.staff-collection ul {
+	list-style: none;
+	text-align: center;
+	padding-left: 0;
+}
+
+.staff-collection ul li {
+	color: white;
+	padding-bottom: 4px;
+}
+
+.staff-collection a:hover {
+    color: #f7dfa9 !important;
+    text-decoration: none;
+}
+
+.staff-collection ul li span {
+	display: block;
+	line-height: 1.1;
+}
+
+.staff-collection ul li button span.staff-title,
+.staff-collection ul li button span.expert-title,
+.staff-collection ul li button span.profile-company,
+.staff-collection ul li button p.staff-title,
+.staff-collection ul li button p.expert-title,
+.staff-collection ul li button p.profile-company {
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #D7D1C4 !important;
+	word-break: break-word;
+}
+
+.staff-collection .btn-primary, .staff-collection .btn-info {
+	background: transparent;
+	border: none;
+}
+
+.staff-name a.btn.btn-info,
+.expert-name a.btn.btn-info {
+    font-size: 16px;
+    padding: 4px;
+}
+
+.staff-name a.btn:active,
+.expert-name a.btn:active {
+	box-shadow: none;
+}
+
+.four-columns ul {
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 20px;
+}
+
+/* our experts (skillsdev page)
+--------------------------------------------- */
+.expert-collection h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.expert-collection ul {
+	list-style: none;
+	text-align: center;
+	padding-left: 0;
+}
+
+.expert-collection ul li {
+	color: white;
+	padding-bottom: 4px;
+	min-height: 88px;
+}
+
+.expert-collection a:hover {
+    color: #f7dfa9 !important;
+    text-decoration: none;
+}
+
+.expert-collection ul li span {
+	display: block;
+	line-height: 1.1;
+}
+
+.expert-collection ul li span.expert-title,
+.expert-collection ul li span.expert-title,
+.expert-collection ul li span.profile-company {
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #D7D1C4 !important;
+}
+
+.expert-collection .btn-primary, .expert-collection .btn-info {
+	background: transparent;
+	border: none;
+}
+
+.expert-name a.btn.btn-info,
+.expert-name a.btn.btn-info {
+    font-size: 16px;
+    padding: 4px;
+}
+
+.expert-name a.btn:active,
+.expert-name a.btn:active {
+	box-shadow: none;
+}
+
+p.expert-name, p.expert-title {
+    margin-bottom: 0;
+}
+
+
+/* modals
+--------------------------------------------- */
+.modal-dialog.modal-sm {
+	margin-top: 10%;
+	width: 580px;
+}
+
+.modal-content {
+    color: black !important;
+    padding: 20px;
+}
+
+.profile-pic {
+    float: left;
+    margin: 0 12px 16px 0;
+}
+
+.profile-copy {
+    clear: both;
+    text-align: left;
+}
+
+img.profile-modal {
+    width: 288px;
+}
+
+span.profile-name {
+    padding-top: 60px;
+    font-size: 20px;
+    text-align: left;
+}
+
+span.profile-title {
+    text-transform: uppercase;
+    color: #00a0ae;
+    padding-top: 6px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.modal-content span.profile-company {
+    text-transform: uppercase;
+    color: #00a0ae !important;
+    padding-top: 6px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.modal-content a {
+	color: #003A5C !important;
+}
+
+.modal-content a:hover, .modal-content a:active {
+	color: #00A0AE !important;
+}
+
+/* form placeholder overrides - have to use !important or this doesn't work
+--------------------------------------------- */
+::-webkit-input-placeholder {
+/* Chrome */
+	font-style:italic;
+}
+
+:-ms-input-placeholder {
+/* IE 10+ */
+	font-style:italic;
+}
+
+::-moz-placeholder {
+/* Firefox 19+ */
+	font-style:italic;
+}
+
+:-moz-placeholder {
+/* Firefox 4 - 18 */
+	font-style:italic;
+}
+
+/* footer
+--------------------------------------------- */
+.footer-address p {
+	color:#fff;
+	font-size:.8em;
+	margin-bottom:6px;
+}
+
+.fl-page-footer-container.container {
+	display:none;
+}
+
+/* svg controls
+--------------------------------------------- */
+.institution-logo-large,.institution-logo-small {
+	padding:60px 20px;
+	margin:10px;
+}
+
+.institution-logo-large img.fl-photo-img {
+	max-height:60px;
+}
+
+.institution-logo-large-bwh img.fl-photo-img {
+	height: 55px;
+	width: 275px;
+}
+
+.institution-logo-large.phc-logo img.fl-photo-img {
+	max-height:90px;
+}
+
+.institution-logo-large.phc-logo {
+	padding:45px 20px;
+}
+
+.institution-logo-small {
+	padding:20px;
+}
+
+.institution-logo-small img.fl-photo-img {
+	max-height:50px;
+}
+
+.institution-logo-small.mit {
+	padding:26px 20px;
+}
+
+.institution-logo-small.bch {
+	padding:22px 0;
+}
+
+.institution-logo-small.usdva {
+	padding:0 20px;
+}
+
+.institution-logo-small.usdva img.fl-photo-img {
+	max-height:90px;
+}
+
+.institution-logo-small.forsyth {
+	padding:27px 20px;
+}
+
+.institution-logo-small.northeastern {
+	padding:10px 0;
+}
+
+.institution-logo-small.northeastern img.fl-photo-img {
+	max-height:70px;
+}
+
+/* resources
+--------------------------------------------- */
+.resources p {
+    line-height: 1.1;
+    padding-bottom: 12px;
+}
+
+/* events calendar grid
+--------------------------------------------- */
+.tribe-events-othermonth .tribe-events-month-event-title {
+	opacity: 1 !important;
+}
+
+/* responsive
+--------------------------------------------- */
+@media (min-width: 992px) {
+	.fl-page-nav-right .fl-page-header-row div {
+	}
+}
+	
+/* Shrunken desktop portal & tablets */
+@media only screen
+and (min-width: 768px) and (max-width: 1071px) {
+	.menu a {
+	    padding-left: 16px !important;
+	    padding-right: 16px !important;
+	}
+}
+
+/* medium device
+--------------------------------------------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1071px) {
+	.four-columns ul {
+	    -moz-column-count: 2;
+	    -moz-column-gap: 20px;
+	    -webkit-column-count: 2;
+	    -webkit-column-gap: 20px;
+	    column-count: 2;
+	    column-gap: 20px;
+	}
+}
+
+/* small device
+--------------------------------------------- */
+@media (max-width: 768px) {
+	.four-columns ul {
+	    -moz-column-count: 1;
+	    -moz-column-gap: 20px;
+	    -webkit-column-count: 1;
+	    -webkit-column-gap: 20px;
+	    column-count: 1;
+	    column-gap: 20px;
+	}
+	
+	.fl-menu.fl-menu-accordion-collapse {
+		background: #141D28;
+	}
+	
+	svg.hamburger-menu {
+	    color: #D7D1C4;
+    }
+
+	.fl-menu .fl-menu-mobile-toggle {
+		margin-left: 45%;
+	}
+
+	.menu li a, .menu li.current-menu-item a, .menu li a:hover, body.home li#menu-item-53 a {
+		border-bottom: none;
+	}
+
+	.header-tech {
+		padding-bottom: 22px;
+	}
+
+	.header-innov {
+		width:90%;
+	}
+	
+	.header-institution,.header-area {
+		width:90%;
+	}
+	
+	.header-tech {
+		float:none;
+	}
+	
+	.innov-name {
+		float:none;
+		width:90%;
+	}
+	
+	.innov-institution {
+		float:none;
+		width:90%;
+	}
+	
+	.innov-area {
+		float:none;
+		width:90%;
+	}
+	
+	.innov-tech {
+		float:none;
+	}
+
+	/* modals
+	--------------------------------------------- */
+	.modal-dialog.modal-sm {
+		margin: 20% 5%;
+		width: 290px;
+	}
+	
+	.modal-content {
+	    color: black;
+	    padding: 20px;
+	}
+	
+	.profile-pic {
+	    float: left;
+	    margin: 0 12px 16px 0;
+	}
+	
+	.profile-copy {
+	    clear: both;
+	    text-align: left;
+	}
+	
+	img.profile-modal {
+	    width: 290px;
+	}
+	
+	span.profile-name {
+	    padding-top: 10px;
+	    font-size: 20px;
+	    text-align: left;
+	}
+	
+	span.profile-title {
+	    text-transform: uppercase;
+	    color: #00a0ae;
+	    padding-top: 6px;
+	    font-size: 16px;
+	    text-align: left;
+	}
+	
+	
+}
