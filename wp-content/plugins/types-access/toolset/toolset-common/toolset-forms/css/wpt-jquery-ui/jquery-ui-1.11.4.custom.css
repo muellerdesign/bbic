@@ -278,7 +278,7 @@
 }
 .ui-datepicker.ui-widget-content {
 	border: 1px solid #dddddd;
-	background: #eeeeee url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png") 50% top repeat-x;
+	background: #eeeeee url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png") 50% top repeat-x;
 	color: #333333;
 }
 .ui-datepicker.ui-widget-content a {
@@ -286,7 +286,7 @@
 }
 .ui-datepicker .ui-widget-header {
 	border: 1px solid #e78f08;
-	background: #f6a828 url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png") 50% 50% repeat-x;
+	background: #f6a828 url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png") 50% 50% repeat-x;
 	color: #ffffff;
 	font-weight: bold;
 }
@@ -300,7 +300,7 @@
 .ui-datepicker.ui-widget-content .ui-state-default,
 .ui-datepicker .ui-widget-header .ui-state-default {
 	border: 1px solid #cccccc;
-	background: #f6f6f6 url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png") 50% 50% repeat-x;
+	background: #f6f6f6 url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png") 50% 50% repeat-x;
 	font-weight: bold;
 	color: #1c94c4;
 }
@@ -317,7 +317,7 @@
 .ui-datepicker.ui-widget-content .ui-state-focus,
 .ui-datepicker .ui-widget-header .ui-state-focus {
 	border: 1px solid #fbcb09;
-	background: #fdf5ce url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png") 50% 50% repeat-x;
+	background: #fdf5ce url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png") 50% 50% repeat-x;
 	font-weight: bold;
 	color: #c77405;
 }
@@ -336,7 +336,7 @@
 .ui-datepicker.ui-widget-content .ui-state-active,
 .ui-datepicker .ui-widget-header .ui-state-active {
 	border: 1px solid #fbd850;
-	background: #ffffff url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png") 50% 50% repeat-x;
+	background: #ffffff url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png") 50% 50% repeat-x;
 	font-weight: bold;
 	color: #eb8f00;
 }
@@ -353,7 +353,7 @@
 .ui-datepicker.ui-widget-content .ui-state-highlight,
 .ui-datepicker .ui-widget-header .ui-state-highlight {
 	border: 1px solid #fed22f;
-	background: #ffe45c url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png") 50% top repeat-x;
+	background: #ffe45c url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png") 50% top repeat-x;
 	color: #363636;
 }
 .ui-datepicker .ui-state-highlight a,
@@ -365,7 +365,7 @@
 .ui-datepicker.ui-widget-content .ui-state-error,
 .ui-datepicker .ui-widget-header .ui-state-error {
 	border: 1px solid #cd0a0a;
-	background: #b81900 url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png") 50% 50% repeat;
+	background: #b81900 url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png") 50% 50% repeat;
 	color: #ffffff;
 }
 .ui-datepicker .ui-state-error a,
@@ -411,27 +411,27 @@
 }
 .ui-datepicker .ui-icon,
 .ui-datepicker.ui-widget-content .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_222222_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_222222_256x240.png");
 }
 .ui-datepicker .ui-widget-header .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ffffff_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ffffff_256x240.png");
 }
 .ui-datepicker .ui-state-default .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
 }
 .ui-datepicker .ui-state-hover .ui-icon,
 .ui-datepicker .ui-state-focus .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
 }
 .ui-datepicker .ui-state-active .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ef8c08_256x240.png");
 }
 .ui-datepicker .ui-state-highlight .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_228ef1_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_228ef1_256x240.png");
 }
 .ui-datepicker .ui-state-error .ui-icon,
 .ui-datepicker .ui-state-error-text .ui-icon {
-	background-image: url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ffd27a_256x240.png");
+	background-image: url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-icons_ffd27a_256x240.png");
 }
 
 /* positioning */
@@ -644,14 +644,14 @@
 
 /* Overlays */
 .ui-datepicker .ui-widget-overlay {
-	background: #666666 url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png") 50% 50% repeat;
+	background: #666666 url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png") 50% 50% repeat;
 	opacity: .5;
 	filter: Alpha(Opacity=50); /* support: IE8 */
 }
 .ui-datepicker .ui-widget-shadow {
 	margin: -5px 0 0 -5px;
 	padding: 5px;
-	background: #000000 url("https://davekuhar.github.io/bbic/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_flat_10_000000_40x100.png") 50% 50% repeat-x;
+	background: #000000 url("https://bbic.muellerarchive.com/wp-content/plugins/types-access/toolset/toolset-common/toolset-forms/css/wpt-jquery-ui/images/ui-bg_flat_10_000000_40x100.png") 50% 50% repeat-x;
 	opacity: .2;
 	filter: Alpha(Opacity=20); /* support: IE8 */
 	border-radius: 5px;
