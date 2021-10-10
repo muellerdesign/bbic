@@ -9,8 +9,8 @@
 
 <channel>
 	<title>New Award &#8211; Boston Biomedical Innovation Center</title>
-	<atom:link href="https://davekuhar.github.io/bbic/category/new-award/feed/" rel="self" type="application/rss+xml" />
-	<link>https://davekuhar.github.io/bbic/</link>
+	<atom:link href="https://bbic.muellerarchive.com/category/new-award/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bbic.muellerarchive.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Feb 2020 18:49:45 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://davekuhar.github.io/bbic/wp-content/uploads/2016/11/cropped-bbic-favicon-32x32.png</url>
+	<url>https://bbic.muellerarchive.com/wp-content/uploads/2016/11/cropped-bbic-favicon-32x32.png</url>
 	<title>New Award &#8211; Boston Biomedical Innovation Center</title>
-	<link>https://davekuhar.github.io/bbic/</link>
+	<link>https://bbic.muellerarchive.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>New Award:  Congratulations Dr. Aaron Grant!!</title>
-		<link>https://davekuhar.github.io/bbic/2020/02/11/new-award-congratulations-dr-aaron-grant/</link>
+		<link>https://bbic.muellerarchive.com/2020/02/11/new-award-congratulations-dr-aaron-grant/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Tue, 11 Feb 2020 18:46:59 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1301</guid>
 
 					<description><![CDATA[<p>TITLE: Technology for Functional and Metabolic Imaging with Hyperpolarized MRI TYPE OF AWARD: Pilot CLINICAL AREA:  Heart INSTITUTION:  Beth Israel Deaconess Medical Center DESCRIPTION: MRI provides a wealth of anatomical information, but its ability to assess functional parameters such as blood flow (perfusion) and metabolism is limited by its low sensitivity and the limited range of available contrast&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/02/11/new-award-congratulations-dr-aaron-grant/">New Award:  Congratulations Dr. Aaron Grant!!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/02/11/new-award-congratulations-dr-aaron-grant/">New Award:  Congratulations Dr. Aaron Grant!!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div><strong>TITLE</strong>: Technology for Functional and Metabolic Imaging with Hyperpolarized MRI</div>
 <div><strong>TYPE OF AWARD:</strong> Pilot</div>
@@ -46,7 +46,7 @@
 <div></div>
 <div><strong>DESCRIPTION:</strong> MRI provides a wealth of anatomical information, but its ability to assess functional parameters such as blood flow (perfusion) and metabolism is limited by its low sensitivity and the limited range of available contrast agents. This limitation negatively impacts virtually every clinical scenario where contrast- enhanced imaging plays a role, including cancer, heart disease, and stroke, to name a few. In the work proposed here, we hope to build the basis for a new approach to diagnostic imaging based on a technology known as hyperpolarized carbon-13 MRI. In hyperpolarized MRI, a tracer molecule is prepared exogenously in a state of dramatically enhanced nuclear magnetization and administered intravenously, enabling real-time imaging of the transport, uptake, and metabolism the tracer. Molecules including glucose, glutamine, and pyruvate can be imaged with this technology. Applications to heart disease, lung, cancer, diabetes, and inflammation have been demonstrated pre-clinically, and clinical trials in heart disease and cancer are underway.  Widespread adoption of hyperpolarization technology has been hampered by the complexity, poor reliability and high cost of existing instruments for preparing hyperpolarized agents. Here we propose to develop alternative technology for hyperpolarization based on simple, inexpensive hardware that employs a method known as parahydrogen-induced polarization (PHIP). As a first step toward development of this technology, in this Pilot application we propose to develop and test a novel myocardial perfusion imaging agent that is tailored for use with parahydrogen-based hyperpolarizers.</div>
 <div></div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/02/11/new-award-congratulations-dr-aaron-grant/">New Award:  Congratulations Dr. Aaron Grant!!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/02/11/new-award-congratulations-dr-aaron-grant/">New Award:  Congratulations Dr. Aaron Grant!!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -54,7 +54,7 @@
 			</item>
 		<item>
 		<title>New Award: Congratulations Bradley Maron, MD!</title>
-		<link>https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-bradley-maron-md/</link>
+		<link>https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-bradley-maron-md/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 13 Jan 2020 17:47:48 +0000</pubDate>
@@ -63,7 +63,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1291</guid>
 
 					<description><![CDATA[<p>TITLE: NEDD9 Monoclonal Antibody Therapeutic for Pulmonary Thromboembolic Disease TYPE OF AWARD: Drive CLINICAL AREA:  Biologic INSTITUTION: Brigham and Women&#8217;s Hospital DESCRIPTION: Increased platelet-endothelial adhesion is a central pathobiological event underlying the pathogenesis of pulmonary arterial hypertension (PAH) and chronic thromboembolic pulmonary hypertension (CTEPH). Current therapies to treat thrombosis in PAH and CTEPH emphasize non-specific coagulation proteins, and are associated&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-bradley-maron-md/">New Award: Congratulations Bradley Maron, MD!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-bradley-maron-md/">New Award: Congratulations Bradley Maron, MD!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div><strong>TITLE: </strong>NEDD9 Monoclonal Antibody Therapeutic for Pulmonary Thromboembolic Disease</div>
 <div><strong>TYPE OF AWARD:</strong> Drive</div>
@@ -74,7 +74,7 @@
 <div><strong>DESCRIPTION</strong>: Increased platelet-endothelial adhesion is a central pathobiological event underlying the pathogenesis of pulmonary arterial hypertension (PAH) and chronic thromboembolic pulmonary hypertension (CTEPH). Current therapies to treat thrombosis in PAH and CTEPH emphasize non-specific coagulation proteins, and are associated with elevated rates of off-target effects (e.g., intracranial hemorrhage). Developing a pulmonary vascular-specific drug has several high impact and favorable advantages to current standard of care, but such therapies not exist currently. In this proposal, we present novel data demonstrating that the substrate domain of the protein NEDD9 is a modifiable target to limit thrombosis selectively in the pulmonary circulation. Specifically, our data suggests that NEDD9 on the outward facing plasma membrane is increased by hypoxia selectively in human pulmonary artery endothelial cells, which, in turn, functions as a target of platelet P-selectin to modulate platelet-endothelial interactions in vitro and pulmonary thrombosis in vivo.</div>
 <p>&nbsp;</p>
 <p>We propose experiments using PAH and CTEPH animal models and patient samples to profile the therapeutic effect of a novel monoclonal antibody against the pro-thrombotic NEDD9 peptide sequence (mAb-NEDD9). Go/No-go decisions, pivot points and milestone markers are detailed in the accompanying proposal. Overall, results of the proposed experiments aim to i) establish NEDD9 as a druggable site to inhibit thrombosis in PAH and CTEPH, ii) develop a high quality mAb-NEDD9, and iii) demonstrate that the mAb-NEDD9 inhibits platelet adhesion to pulmonary artery endothelial cells in vitro and inhibits thrombosis, vascular remodeling, and pulmonary hypertension in PAH/CTEPH animal models in vivo. Deliverables from this project will be well positioned for early clinical testing.</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-bradley-maron-md/">New Award: Congratulations Bradley Maron, MD!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-bradley-maron-md/">New Award: Congratulations Bradley Maron, MD!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -82,7 +82,7 @@
 			</item>
 		<item>
 		<title>New Award:  Congratulations Suneet Agarwal, MD, PhD!</title>
-		<link>https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/</link>
+		<link>https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 13 Jan 2020 17:43:34 +0000</pubDate>
@@ -90,7 +90,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1288</guid>
 
 					<description><![CDATA[<p>TITLE: Novel Small Molecule Therapeutics for Genetic Lung and Blood Diseases TYPE OF AWARD: Drive CLINICAL AREA:  Small Molecule INSTITUTION: Boston Children&#8217;s Hospital DESCRIPTION: Telomere diseases encompass a spectrum of rare and fatal syndromes that are caused by mutations in genes regulating telomere biology. These include the severe childhood blood disorder dyskeratosis congenita (DC) and later-onset diseases such as&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/">New Award:  Congratulations Suneet Agarwal, MD, PhD!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/">New Award:  Congratulations Suneet Agarwal, MD, PhD!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div><strong>TITLE</strong>: Novel Small Molecule Therapeutics for Genetic Lung and Blood Diseases</div>
 <div><strong>TYPE OF AWARD:</strong> Drive</div>
@@ -103,7 +103,7 @@
 <div></div>
 <div>We discovered components of the post-transcriptional machinery that regulate accumulation of the non-coding telomerase RNA (TERC), which is critical for telomerase function and is disrupted in several genetic forms of telomere diseases. We found that inhibiting one of these factors, PAPD5, restores TERC and telomere maintenance in induced pluripotent stem cells (iPSCs) from patients with DC or PF. We have discovered small molecule modulators of this enzyme that we now aim to develop into therapeutics. The goal of this project is to advance a small molecule inhibitor strategy targeting PAPD5 to clinical lead stage. If successful, this strategy will provide a novel approach to manipulate telomerase for the treatment of genetic lung and blood diseases caused by defective telomere maintenance, and potentially other degenerative disorders.</div>
 <div></div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/">New Award:  Congratulations Suneet Agarwal, MD, PhD!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2020/01/13/new-award-congratulations-suneet-agarwal-md-phd/">New Award:  Congratulations Suneet Agarwal, MD, PhD!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>NEW AWARD: Congratulations Dr. Steven Greenberg!!</title>
-		<link>https://davekuhar.github.io/bbic/2019/09/02/new-award-congratulations-dr-steven-greenberg/</link>
+		<link>https://bbic.muellerarchive.com/2019/09/02/new-award-congratulations-dr-steven-greenberg/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 02 Sep 2019 14:41:29 +0000</pubDate>
@@ -119,7 +119,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1247</guid>
 
 					<description><![CDATA[<p>TITLE: Generation of a Novel Therapeutic Antibody for Treatment of Allergic Asthma TYPE OF AWARD: Pilot CLINICAL AREA:  Lung INSTITUTION: Brigham and Women&#8217;s Hospital &#160; DESCRIPTION: Asthma affects 8% of the US population, approximately 25 million people. About 10% of patients have severe asthma, accounting for an estimated 1.8 million emergency department visits, 439,000 hospitalizations, and 3,630 deaths annually&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/09/02/new-award-congratulations-dr-steven-greenberg/">NEW AWARD: Congratulations Dr. Steven Greenberg!!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/09/02/new-award-congratulations-dr-steven-greenberg/">NEW AWARD: Congratulations Dr. Steven Greenberg!!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div>
 <div><strong>TITLE</strong>: Generation of a Novel Therapeutic Antibody for Treatment of Allergic Asthma</div>
@@ -133,7 +133,7 @@
 <p class="x_MsoNormal">Airway inflammation in asthma can be classified as either eosinophilic or non-eosinophilic. Eosinophilic asthma is driven by Th2 mechanisms sustained by innate lymphoid cells type 2 (ILC2) and pathogenic effector Th2 (pETh2) cells’ production of interleukin 5 (IL-5), leading to bronchial eosinophilia. Non-eosinophilic asthma is less well understood but Th17 pathways are a major contributor, responsible for neutrophilic infiltration of the airways [2].</p>
 <p class="x_MsoNormal">
 <p class="x_MsoNormal">The proposed technology is designed to treat both eosinophilic and non-eosinophilic asthma via a therapeutic monoclonal antibody (mAb) designed to work via targeting depletion of innate lymphoid cells type 2 (ILC2), pathogenic effector Th2 (pETh2) cells, and Th17 cells.</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/09/02/new-award-congratulations-dr-steven-greenberg/">NEW AWARD: Congratulations Dr. Steven Greenberg!!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/09/02/new-award-congratulations-dr-steven-greenberg/">NEW AWARD: Congratulations Dr. Steven Greenberg!!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -141,7 +141,7 @@
 			</item>
 		<item>
 		<title>Congratulations Dr. Sylvie Breton!</title>
-		<link>https://davekuhar.github.io/bbic/2019/05/27/congratulations-dr-sylvie-breton/</link>
+		<link>https://bbic.muellerarchive.com/2019/05/27/congratulations-dr-sylvie-breton/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 27 May 2019 19:17:10 +0000</pubDate>
@@ -149,7 +149,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1222</guid>
 
 					<description><![CDATA[<p>TITLE: Diagnostic for Acute Kidney Injury Associated with Cardiovascular Diseases TYPE OF AWARD: Drive TECHNOLOGY TYPE:  Diagnostic INSTITUTION: MGH &#160; DESCRIPTION:  Acute kidney injury (AKI) is a frequent complication in hospitalized patients, including those undergoing cardiac surgery. However, two critical barriers to the clinical management of these critically ill patients remain the need for better methods&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/05/27/congratulations-dr-sylvie-breton/">Congratulations Dr. Sylvie Breton!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/05/27/congratulations-dr-sylvie-breton/">Congratulations Dr. Sylvie Breton!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div><strong>TITLE</strong>: Diagnostic for Acute Kidney Injury Associated with Cardiovascular Diseases</div>
 <div><strong>TYPE OF AWARD:</strong> Drive</div>
@@ -157,7 +157,7 @@
 <div><strong>INSTITUTION:</strong> MGH</div>
 <p>&nbsp;</p>
 <p><strong>DESCRIPTION</strong>:  Acute kidney injury (AKI) is a frequent complication in hospitalized patients, including those undergoing cardiac surgery. However, two critical barriers to the clinical management of these critically ill patients remain the need for better methods for early prognosis/diagnosis of AKI and therapeutic options to prevent/mitigate AKI. Uncontrolled inflammation is a leading cause of AKI. Injured cells in organs remote from the kidney (e.g. heart, brain, lungs, limbs) release UDP-glucose (UDP-G), a danger-associated molecular pattern (DAMP) molecule, which then builds up in the kidney, triggering inflammation. Consistent with this, we have data suggesting that high level of UDP-G in the urine of patients is predictive of the onset of AKI.  We previously showed that UDP-G binds to the purinergic receptor P2Y14 in the kidney.  This binding increases the expression of chemokines that attract neutrophils and monocytes into the kidney. In studies supported by a B-BIC Pilot <span class="markrkfk0uu89" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">award</span>, we demonstrated that prophylactic blocking of the UDP-G/P2Y14 signaling pathway with a potent, selective P2Y14 antagonist, PPTN, reduced renal inflammation and histological damage and improved renal function after renal ischemic reperfusion injury in mice. To complement this therapeutic approach, the aim of this DRIVE <span class="markrkfk0uu89" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">Award</span> proposal is to develop a clinical-grade UDP-G assay for the prognosis/diagnosis of AKI. This can serve as a stand-alone diagnostic for AKI or as a theranostic for P2Y14-targeted therapeutics.</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/05/27/congratulations-dr-sylvie-breton/">Congratulations Dr. Sylvie Breton!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/05/27/congratulations-dr-sylvie-breton/">Congratulations Dr. Sylvie Breton!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -165,7 +165,7 @@
 			</item>
 		<item>
 		<title>New Award: Congratulations Dr. Robert Flaumenhaft!</title>
-		<link>https://davekuhar.github.io/bbic/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/</link>
+		<link>https://bbic.muellerarchive.com/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 27 May 2019 19:13:11 +0000</pubDate>
@@ -175,7 +175,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1219</guid>
 
 					<description><![CDATA[<p>TITLE: A Rapid, Inexpensive Platelet Function Test TYPE OF AWARD: Pilot CLINICAL AREA:  Blood INSTITUTION: BIDMC DESCRIPTION:  Antiplatelet agents such as clopidogrel and aspirin are used in the treatment of heart attacks and strokes and are among the most commonly used drugs in the U.S. Problems associated with these drugs include bleeding risk (which complicates invasive&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/">New Award: Congratulations Dr. Robert Flaumenhaft!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/">New Award: Congratulations Dr. Robert Flaumenhaft!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<header class="fl-post-header">
 <div class="fl-post-meta fl-post-meta-top">
@@ -196,7 +196,7 @@
 </div>
 </div>
 <div class="fl-post-meta fl-post-meta-bottom"></div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/">New Award: Congratulations Dr. Robert Flaumenhaft!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2019/05/27/new-award-congratulations-dr-robert-flaumenhaft/">New Award: Congratulations Dr. Robert Flaumenhaft!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -204,7 +204,7 @@
 			</item>
 		<item>
 		<title>New Award: Congratulations Dr. Darren Roblyer</title>
-		<link>https://davekuhar.github.io/bbic/2018/11/13/new-award-congratulations-dr-darren-roblyer/</link>
+		<link>https://bbic.muellerarchive.com/2018/11/13/new-award-congratulations-dr-darren-roblyer/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Tue, 13 Nov 2018 14:12:13 +0000</pubDate>
@@ -212,7 +212,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1172</guid>
 
 					<description><![CDATA[<p>TITLE: CardioptOx: A new real-time quantitative cardio-pulmonary monitoring technique for improved patient care. TYPE OF AWARD: Pilot TECHNOLOGY TYPE: Diagnostic Device CLINICAL AREA:  Heart INSTITUTION: Boston University DESCRIPTION: Approximately 600,000 deaths per year are attributed to cardiopulmonary disease in the US. Many patients suffering from cardiopulmonary disease experience complications that require hospital and intensive care unit (ICU) stays.&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/11/13/new-award-congratulations-dr-darren-roblyer/">New Award: Congratulations Dr. Darren Roblyer</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/11/13/new-award-congratulations-dr-darren-roblyer/">New Award: Congratulations Dr. Darren Roblyer</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div><strong>TITLE</strong>: CardioptOx: A new real-time quantitative cardio-pulmonary monitoring technique for improved patient care.</div>
 <div></div>
@@ -225,7 +225,7 @@
 <div><strong>DESCRIPTION:</strong> <span style="color: #212121; font-family: Times New Roman,serif;">Approximately 600,000 deaths per year are attributed to cardiopulmonary disease in the US. Many patients suffering from cardiopulmonary disease experience complications that require hospital and intensive care unit (ICU) stays. For these patients, constant monitoring of the adequacy of tissue oxygenation is essential. Despite the importance of tissue oxygenation, current techniques are limited by their inability to measure key parameters in both the arterial and venous vascular compartments, and by the invasive nature of their implementation (e.g. invasive catheters), leading to complications, false diagnoses, and high costs. Our invention is called CardioptOx, and is a new high-speed tissue oximetry technology that can be used by physicians to monitor oxygen supply and consumption in a better way. CardioptOx has the potential to be implemented in a wide variety of hospital settings representing broad patient impact and a substantial market size, including but not limited to continuous monitoring in the ICU. CardioptOx will address unmet needs, improve outcomes, and reduce costs in the ICU by providing physicians will better, non-invasive, and quantitative indications of tissue oxygenation and utilization that can be used to make decisions regarding interventions. This B-BIC pilot award will allow us to develop an improved human interface and analysis software for CardioptOx, and demonstrate equivalence to invasive methods. This will allow us to rapidly move towards the first in vivo clinical study of a targeted patient population, helping to move the technology towards FDA clearance and commercialization</span><span style="font-family: Times New Roman,serif;">.</span></div>
 <div></div>
 </div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/11/13/new-award-congratulations-dr-darren-roblyer/">New Award: Congratulations Dr. Darren Roblyer</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/11/13/new-award-congratulations-dr-darren-roblyer/">New Award: Congratulations Dr. Darren Roblyer</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -233,7 +233,7 @@
 			</item>
 		<item>
 		<title>New Award: Congratulations, Dr. Jonghan Kim!</title>
-		<link>https://davekuhar.github.io/bbic/2018/02/26/new-award-congratulations-jonghan-kim/</link>
+		<link>https://bbic.muellerarchive.com/2018/02/26/new-award-congratulations-jonghan-kim/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Mon, 26 Feb 2018 17:40:15 +0000</pubDate>
@@ -246,9 +246,9 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1111</guid>
 
 					<description><![CDATA[<p>RECIPIENT:  Dr. Jonghan Kim TITLE: Hydrogel-based nanochelator therapy for iron overload disorders TYPE OF AWARD: Drive TECHNOLOGY TYPE: Small Molecule CLINICAL AREA: Blood INSTITUTION: Northeastern &#38; MGH DESCRIPTION: Iron overload, best represented by hereditary hemochromatosis (primary/genetic iron overload) and transfusional hemoglobinopathy (secondary/acquired iron overload), is a well-defined risk factor for several critical diseases, including heart failure, liver cirrhosis, arthritis,&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/02/26/new-award-congratulations-jonghan-kim/">New Award: Congratulations, Dr. Jonghan Kim!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/02/26/new-award-congratulations-jonghan-kim/">New Award: Congratulations, Dr. Jonghan Kim!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<header class="fl-post-header"><img loading="lazy" class="wp-image-1112 alignleft" src="https://b-bic.org/wp-content/uploads/2018/02/Kim_Jonghan_2014-200x300.jpg" alt="" width="136" height="203" srcset="https://davekuhar.github.io/bbic/wp-content/uploads/2018/02/Kim_Jonghan_2014-200x300.jpg 200w, https://davekuhar.github.io/bbic/wp-content/uploads/2018/02/Kim_Jonghan_2014.jpg 667w" sizes="(max-width: 136px) 100vw, 136px" /><strong>RECIPIENT</strong>:  Dr. Jonghan Kim<b></b></header>
+										<content:encoded><![CDATA[<header class="fl-post-header"><img loading="lazy" class="wp-image-1112 alignleft" src="https://b-bic.org/wp-content/uploads/2018/02/Kim_Jonghan_2014-200x300.jpg" alt="" width="136" height="203" srcset="https://bbic.muellerarchive.com/wp-content/uploads/2018/02/Kim_Jonghan_2014-200x300.jpg 200w, https://bbic.muellerarchive.com/wp-content/uploads/2018/02/Kim_Jonghan_2014.jpg 667w" sizes="(max-width: 136px) 100vw, 136px" /><strong>RECIPIENT</strong>:  Dr. Jonghan Kim<b></b></header>
 <div class="fl-post-content clearfix">
 <div>
 <div></div>
@@ -264,7 +264,7 @@
 <p><strong>DESCRIPTION</strong>: Iron overload, best represented by hereditary hemochromatosis (primary/genetic iron overload) and transfusional hemoglobinopathy (secondary/acquired iron overload), is a well-defined risk factor for several critical diseases, including heart failure, liver cirrhosis, arthritis, diabetes and neurodegenerative diseases. Iron chelators are clinically used to reduce iron burden, but the use of chelators is limited by a number of significant side effects, including hypotension, tachycardia, agranulocytosis, neutropenia, ocular/auditory toxicities, loss of essential nutrients, musculoskeletal-joint pains, gastrointestinal bleeding, hepatic fibrosis and renal failure. Considering tens of millions of people worldwide affected by various types of iron overload disorders, there are urgent needs for a new therapeutic strategy. The primary focus of the DRIVE project is to develop iron chelator-coated ultrasmall nanoparticles (“nanochelators”) in subcutaneously-injectable hydrogel, which allows for a prolonged release of nanochelators that capture plasma iron and are rapidly cleared via urine without non-specific distribution into non-target tissues. The specific aims of the proposed study are 1) to develop subcutaneously-injectable (implantable) hydrogel that contains renally-clearable nanochelators to increase the systemic drug exposure over 2-3 weeks and 2) to characterize the pharmacokinetics, therapeutic efficacy and safety of nanochelators in hydrogel using rodent models of iron overload. Our nanotechnology-based chelation therapy will efficiency decrease iron burden and reduce the risk of iron-induced tissue damage in subjects with iron overload, while minimizing unwanted adverse effects of chelators and increasing patients’ compliance, which together improve clinical outcomes.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/02/26/new-award-congratulations-jonghan-kim/">New Award: Congratulations, Dr. Jonghan Kim!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/02/26/new-award-congratulations-jonghan-kim/">New Award: Congratulations, Dr. Jonghan Kim!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -272,7 +272,7 @@
 			</item>
 		<item>
 		<title>NEW AWARD:  CONGRATULATIONS DR J. BRIAN MCALVIN</title>
-		<link>https://davekuhar.github.io/bbic/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/</link>
+		<link>https://bbic.muellerarchive.com/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Wed, 31 Jan 2018 21:13:22 +0000</pubDate>
@@ -282,7 +282,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1096</guid>
 
 					<description><![CDATA[<p>RECIPIENT:  Dr. J. Brian McAlvin TITLE: A Novel Method To Treat The Systemic Inflammatory Response Syndrome (SIRS) TYPE OF AWARD: Pilot TECHNOLOGY TYPE: Therapeutic Device CLINICAL AREA: Blood INSTITUTION: Boston Children&#8217;s Hospital DESCRIPTION: We have developed highly-selective blood-filtering devices that are capable of filtering of individual, harmful molecules from the blood of patients rendered critically ill by the&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/">NEW AWARD:  CONGRATULATIONS DR J. BRIAN MCALVIN</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/">NEW AWARD:  CONGRATULATIONS DR J. BRIAN MCALVIN</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<header class="fl-post-header">
 <div><strong><img loading="lazy" class="size-full wp-image-1097 alignleft" src="https://b-bic.org/wp-content/uploads/2018/01/6343194.jpg" alt="" width="120" height="155" />RECIPIENT</strong>:  Dr. J. Brian McAlvin<b></b></div>
@@ -300,7 +300,7 @@
 <p><strong>DESCRIPTION</strong>: We have developed highly-selective blood-filtering devices that are capable of filtering of individual, harmful molecules from the blood of patients rendered critically ill by the systemic inflammatory response syndrome (SIRS). Antibody modified conduits(AMCs) are modified to remove specific circulating harmful molecules, and are incorporated within existing extracorporeal systems (e.g. dialysis, ECMO, plasma exchange and apheresis circuits). Each AMC filters a single, unique molecule. AMC combinations are chosen to selectively remove specific, deleterious molecules as they arise and are exchanged with new AMCs as host molecule expression changes. These temporally controlled, targeted manipulations of the introduce a novel treatment paradigm for SIRS. SIRS is the underlying mechanism for a variety of common critical illnesses including sepsis, ARDS, pancreatitis, trauma, burns and SIRS triggered by cardiopulmonary bypass surgery. Users of this device would be critically ill patients in the ICU or operating room with any disease for which the underlying mechanism is SIRS. Here, we use sepsis as the model disease in which to study the function of AMCs. Users of the device would be critically ill patients with SIRS resulting in multi-organ injury.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/">NEW AWARD:  CONGRATULATIONS DR J. BRIAN MCALVIN</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2018/01/31/new-award-congratulations-dr-j-brian-mcalvin/">NEW AWARD:  CONGRATULATIONS DR J. BRIAN MCALVIN</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -308,7 +308,7 @@
 			</item>
 		<item>
 		<title>NEW AWARD:  CONGRATULATIONS, DR. SYLVIE BRETON!</title>
-		<link>https://davekuhar.github.io/bbic/2017/11/10/new-award-congratulations-dr-sylvie-breton/</link>
+		<link>https://bbic.muellerarchive.com/2017/11/10/new-award-congratulations-dr-sylvie-breton/</link>
 		
 		<dc:creator><![CDATA[B-BIC]]></dc:creator>
 		<pubDate>Fri, 10 Nov 2017 16:46:47 +0000</pubDate>
@@ -318,7 +318,7 @@
 		<guid isPermaLink="false">https://b-bic.org/?p=1037</guid>
 
 					<description><![CDATA[<p>RECIPIENT:  Dr. Sylvie Breton TITLE: Predicting and Preventing Acute Kidney Injury Associated with Cardiovascular Diseases TYPE OF AWARD:  PILOT TECHNOLOGY TYPE: Small Molecule Drug CLINICAL AREA: Heart INDICATION: Acute Kidney Injury INSTITUTION: MGH DESCRIPTION:  Acute kidney injury (AKI) is a frequent complication of hospitalized patients. Unfortunately, there is no cure for this potentially deadly condition. Thus, a critical&#8230;</p>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2017/11/10/new-award-congratulations-dr-sylvie-breton/">NEW AWARD:  CONGRATULATIONS, DR. SYLVIE BRETON!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2017/11/10/new-award-congratulations-dr-sylvie-breton/">NEW AWARD:  CONGRATULATIONS, DR. SYLVIE BRETON!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<header class="fl-post-header">
 <div></div>
@@ -335,7 +335,7 @@
 <p><strong>DESCRIPTION</strong>:  Acute kidney injury (AKI) is a frequent complication of hospitalized patients. Unfortunately, there is no cure for this potentially deadly condition. Thus, a critical barrier to the clinical management of critically ill patients is the need for better therapeutic options to prevent/mitigate AKI. Uncontrolled inflammation is a leading cause of AKI. Injured cells release UDP-glucose (UDP-G), a danger-associated molecular pattern (DAMP) molecule, which then builds up in the kidney triggering inflammation. We showed that renal intercalated cells (ICs) detect UDP-G via the purinergic receptor P2Y14. Activation of P2Y14 by UDP-G in ICs increases the expression of chemokines that attract immune cells into the kidney. Our proposed research tests the hypothesis that blocking the UDP-glucose/P2Y14 signaling pathway in ICs alleviates renal inflammation after injury, leading to reduced incidence of AKI. In particular, we will validate novel P2Y14 antagonists for the treatment of inflammation-associated renal damage and dysfunction. We will use a pre-clinical mouse model of AKI resulting from ischemia/reperfusion injury (IRI), which induces AKI in cardiac surgery patients. Defining the action of P2Y14 antagonists in this model will provide an informed basis on which to assess the clinical settings in which these compounds would be most efficacious in preventing inflammation-associated AKI. We found that urinary UDP-G is a strong predictor of AKI in ICU patients. Thus, targeting the UDP-G/P2Y14 pathway represents a promising therapeutic approach for the prevention/mitigation of AKI.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="https://davekuhar.github.io/bbic/2017/11/10/new-award-congratulations-dr-sylvie-breton/">NEW AWARD:  CONGRATULATIONS, DR. SYLVIE BRETON!</a> appeared first on <a rel="nofollow" href="https://davekuhar.github.io/bbic/">Boston Biomedical Innovation Center</a>.</p>
+<p>The post <a rel="nofollow" href="https://bbic.muellerarchive.com/2017/11/10/new-award-congratulations-dr-sylvie-breton/">NEW AWARD:  CONGRATULATIONS, DR. SYLVIE BRETON!</a> appeared first on <a rel="nofollow" href="https://bbic.muellerarchive.com/">Boston Biomedical Innovation Center</a>.</p>
 ]]></content:encoded>
 					
 		
